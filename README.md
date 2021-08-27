@@ -1,4 +1,4 @@
-# 自用算法模板
+# XCPC代码仓库
 
 [![Build](https://github.com/123zdq/acm-template/workflows/Build/badge.svg?branch=main)](https://github.com/123zdq/acm-template/actions)
 
